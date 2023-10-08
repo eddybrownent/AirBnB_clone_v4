@@ -7,3 +7,7 @@ header {
     background-position: 20px center;
     flex-shrink: 0;
 }
+
+.api-status {
+    background-color: #ff545f;
+}
